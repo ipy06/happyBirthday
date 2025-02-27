@@ -67,6 +67,7 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-hot:hover {
+    /* background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVkazZmNGU4ZWd3YW40MTUzaTk2MHZ5YWJhNjJvdGQ1dW84cWN3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CogAtAK2r5M1W/giphy.gif"); */
     background-image: url("images/hot.gif");
 }
 
